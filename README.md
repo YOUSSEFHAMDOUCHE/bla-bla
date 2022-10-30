@@ -1,2 +1,0 @@
-# mezagora
-premier_projet
